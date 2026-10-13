@@ -12,3 +12,5 @@ instance/
 .env.*
 !.env.example
 
+
+tests/.venv.code-workspace
